@@ -1,3 +1,5 @@
 <?php
 
-require 'vendor/autoload.php';
+
+require 'index2.php';
+
